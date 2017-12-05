@@ -26,6 +26,9 @@ Ecrire un programme dans le langage de ton choix (idéalement Scala) respectant 
 - une pénalité multiplicative de 0.95 est appliquée au rating pour chaque jour d'écart avec le timestamp maximal de input.csv 
 - On ne souhaite conserver que les ratings > 0.01
 
+## Comments
+If we know that the input data is sorted by timestamp, the algo can be more efficient
+
 ## How to run
 in the projec folder
 
